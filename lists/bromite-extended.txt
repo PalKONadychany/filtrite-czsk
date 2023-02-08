@@ -32,6 +32,7 @@ https://easylist.to/easylist/fanboy-social.txt
 
 # Annoyances on Twitter
 https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
-
+# EasyList Czech and Slovak
+https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt
 # My own block list
 https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
