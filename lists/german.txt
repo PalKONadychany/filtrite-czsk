@@ -43,6 +43,7 @@ https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
 # Now some region-specific lists
 # ----------------------------------
 https://easylist.to/easylistgermany/easylistgermany.txt
+https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt
 
 # Adguard lists from https://github.com/AdguardTeam/AdguardFilters
 https://filters.adtidy.org/extension/ublock/filters/6.txt
