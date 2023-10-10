@@ -36,7 +36,7 @@ To create a new list:
     # Lines starting with # are ignored, empty lines are also allowed
     # List one URL per line:
     https://easylist.to/easylist/easylist.txt
-    https://...
+    https://....
 
     # The following line doesn't work, only put either a comment or an URL in one line, not both
     http://  # Invalid comment on URL
